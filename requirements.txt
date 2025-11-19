@@ -6,3 +6,5 @@ plotly
 textblob
 scikit-learn
 ta
+tensorflow
+keras
