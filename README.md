@@ -190,3 +190,6 @@ For questions or collaborations, feel free to reach out via GitHub issues.
 **Live App:** https://naja24-stock-market-fundamental-analysis-app-x1yal1.streamlit.app/
 
 Analyze any stock instantly with comprehensive fundamental, technical, and sentiment analysis!
+
+> **⚠️ Important Note:**  
+> The technical analysis component currently uses Linear Regression for trend prediction and should be considered supplementary to the fundamental analysis. For more robust time-series forecasting, please refer to our advanced deep learning models (LSTM, N-BEATS, TFT) in the [companion repository](https://github.com/Naja24/Stock-Market-Analysis). An enhanced technical analysis module with improved predictive capabilities is under development and will be released in future updates.
